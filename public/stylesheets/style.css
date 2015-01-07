@@ -1,0 +1,14 @@
+body {
+    background: #eff1f3;
+}
+
+section {
+   background-color: aqua;
+   margin: 50px;
+   width: 50%;
+}
+
+div {
+    padding: 50px;
+    opacity: 0.5;
+}

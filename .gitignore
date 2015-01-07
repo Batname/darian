@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+*.seed
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+results
+
+npm-debug.log
+node_modules
+.sass-cache
+bower_components
